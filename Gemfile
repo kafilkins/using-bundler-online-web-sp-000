@@ -7,4 +7,4 @@ gem "pry"
 end
 
 gem "hashie"
-gem "octokit", "~>2.0"
+gem "octokit", "~> 2.0"
